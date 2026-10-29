@@ -1,0 +1,6 @@
+{
+  "name": "Happy to Help",
+  "description": "Local jobs portal connecting job seekers with nearby employers. Features OTP login, job posting, direct calling and messaging, resume profile, multilingual support, and offline cache.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
